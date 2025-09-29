@@ -1,3 +1,4 @@
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/annarakhim/thalamocortical-dynamics-simulation/blob/main/thalamocortical_model.ipynb)
 # thalamocortical-dynamics-simulation
 Моделирование таламокортикальной системы и анализ ее отклика на частотно-модулированное воздействие
 
